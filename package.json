@@ -1,5 +1,5 @@
 {
-  "name": "vader-task-scheduler",
+  "name": "vldslvz-task-scheduler",
   "version": "1.0.0",
   "description": "task scheduler library",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vader26/task-scheduler.git"
+    "url": "https://github.com/vldslvz/task-scheduler.git"
   },
   "dependencies": {
-    "vader-data-validator": "1.0.1"
+    "vldslvz-data-validator": "1.0.0"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vader26/task-scheduler/issues"
+    "url": "https://github.com/vldslvz/task-scheduler/issues"
   },
-  "homepage": "https://github.com/vader26/task-scheduler#readme"
+  "homepage": "https://github.com/vldslvz/task-scheduler#readme"
 }

@@ -7,7 +7,7 @@ Task Scheduler is a simple JavaScript package that allows you to schedule and ma
 Install the package via npm:
 
 ```bash
-npm install vader-task-scheduler
+npm install vldslvz-task-scheduler
 ```
 
 ## Usage
